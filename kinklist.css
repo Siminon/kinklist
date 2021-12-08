@@ -39,9 +39,9 @@ td {
 	border-left:solid #999 1px;
 	border-bottom:solid #999 1px;
 	border-right:solid #999 1px;
-	margin:0;
+	margin:8px;
 	padding:4px;
-	padding-right:2px
+	padding-right:8px
 }
 
 td + td { border-left-style:none }
